@@ -64,5 +64,5 @@ Template: "Tasty" by FreeHTML5.co (keep the small credit in the footer, as the f
 
 ## Link preview (WhatsApp, Facebook, X)
 When the site link is shared, apps show `images/og-image.jpg` (1200×630) with the page title.
-The tags at the top of each page use the full address `https://nabus.github.io/TheBreadBox/`.
+The tags at the top of each page use the full address `https://thebreadboxx.com/`.
 If you move to a custom domain, replace that address in every page's `<head>`.
