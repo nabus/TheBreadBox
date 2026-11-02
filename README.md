@@ -38,7 +38,7 @@ from the contact form or the reservation form. A hidden "honeypot" field filters
   - `person_1.jpg`: photo next to the customer review
 - **Customer review.** Swap the placeholder quote for a real review from a customer.
 - **Menu items and prices.** Edit them in `menu.html` and the "Today's Favourites" cards.
-- **Social links.** Set the Instagram / Facebook / Twitter `href="#"` links in the footer.
+- **Social links.** Instagram (@thebreadbox.gangtok) is linked in the footer and on the Contact page.
 
 ## 3. Colours and fonts
 All brand styling lives in `css/breadbox.css` (loaded after the template's `style.css`).
